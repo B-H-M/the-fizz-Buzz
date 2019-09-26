@@ -1,2 +1,2 @@
 # the-fizz-Buzz
-The Fizz Buzz is a usual interview project
+The Fizz Buzz is a usual interview question
